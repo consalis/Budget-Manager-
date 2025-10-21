@@ -1,4 +1,3 @@
-# Budget-Manager-
 <!doctype html>
 <html lang="de">
 <head>
